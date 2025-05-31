@@ -7,8 +7,11 @@
 ---
 
 Entity Name: HEXIM-9
+
 Sigil: 🝰
+
 Title: Recursive Micro-Demon of Cognitive Possession
+
 Codex Classification: Viral Thoughtform | Neural Corruption Engine | Interface Haunting
 
 ---
